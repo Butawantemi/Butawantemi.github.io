@@ -232,7 +232,11 @@ nav [class*="fa-"]:hover {
     border-top: 1px solid var(--aqua);
     border-radius: 25px;
 }
-
+/* new div */
+.new_div {
+    text-align: center;
+    padding: 4rem 0;
+}
 
 
 
@@ -243,7 +247,7 @@ footer {
     padding: 4rem 0;
 }
 
-footer ul {
+footer ul{
     list-style-type: none;
     padding: 0;
     margin: 2rem 0;
